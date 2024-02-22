@@ -10,6 +10,7 @@
 
 <body>
     <h2>Profile Halaman</h2>
+    <a href="#">Halaman Profile</a>
 </body>
 
 </html>
